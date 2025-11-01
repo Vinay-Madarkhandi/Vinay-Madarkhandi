@@ -12,7 +12,7 @@ I enjoy solving complex problems and crafting efficient, production-ready system
 
 ### ⚙️ Tech Stack  
 **Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, Prisma ORM  
+**Backend:** Node.js, Express.js, Prisma ORM, Java  
 **Database:** PostgreSQL  
 **Others:** AWS S3, Razorpay API, Web3.js  
 
